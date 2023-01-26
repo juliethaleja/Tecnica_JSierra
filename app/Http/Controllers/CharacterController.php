@@ -7,7 +7,6 @@ use App\Models\Characters;
 use App\Models\Origin;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
-use PhpParser\Node\Stmt\Return_;
 
 class CharacterController extends Controller
 {

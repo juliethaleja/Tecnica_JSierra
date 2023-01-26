@@ -18,7 +18,7 @@
                 <h5 class="fw-light fs-2 baner__h5">
                     Revisa nuestro portafolio de personajes de la serie
                 </h5>
-                <button type="button" class="btn btn-outline-success"><a class="text-decoration-none nav__a" href="character">Personajes</a> </button>
+                <a class="text-decoration-none nav__a" href="character"><button type="button" class="btn btn-outline-success">Personajes</button></a>
             </div>
         </aside>
   </body>
