@@ -17,13 +17,15 @@ Nota: Para usar los servicios de la plataforma, desde la pagina de incio como se
     
 ## Comandos de ejecución
     
-    ### Abrir terminal
+    ### Abrir terminal 
     
     1.npm install
     
     2.npm run dev
     
-    ## Abrir otra terminal
+    ## Abrir otra terminal 
+    
+    1.composer install
     
     1. php artisan serve
     
